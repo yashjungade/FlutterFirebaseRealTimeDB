@@ -19,7 +19,7 @@ class _HomeState extends State<Home> {
     });
     return Scaffold(
       appBar: AppBar(
-        title: Text('DatReal', style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold),),
+        title: Text('FlutterRTDB', style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold),),
         centerTitle: true,
       ),
       body: Center(
@@ -52,9 +52,8 @@ class _HomeState extends State<Home> {
               Container(
                 child: Column(
                   children: [
-                    Text('Vidyalankar Institute of Technology'),
-                    Text('Semester Internship'),
-                    Text('Data Acquisition using android'),
+                    Text('Yash Jungade'),
+                    Text('Flutter Realtime Database'),
               ],),
               )
             ],
