@@ -1,40 +1,40 @@
 {
   "project_info": {
-    "project_number": "700589944931",
-    "firebase_url": "https://data-acquisition-vit-default-rtdb.firebaseio.com",
-    "project_id": "data-acquisition-vit",
-    "storage_bucket": "data-acquisition-vit.appspot.com"
+    "project_number": "",
+    "firebase_url": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:700589944931:android:c2cd8be1f7f0d5d2fb0856",
+        "mobilesdk_app_id": "",
         "android_client_info": {
-          "package_name": "com.datreal"
+          "package_name": ""
         }
       },
       "oauth_client": [
         {
-          "client_id": "700589944931-tlbgj4d77dnmp32f4haq960n8qt3o02e.apps.googleusercontent.com",
-          "client_type": 3
+          "client_id": "",
+          "client_type": 
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDWkBYcAP6tmyEjivRPAGVw89STidzjUFo"
+          "current_key": ""
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "700589944931-tlbgj4d77dnmp32f4haq960n8qt3o02e.apps.googleusercontent.com",
-              "client_type": 3
+              "client_id": "",
+              "client_type": 
             }
           ]
         }
       }
     }
   ],
-  "configuration_version": "1"
+  "configuration_version": ""
 }
